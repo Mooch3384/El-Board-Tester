@@ -1,13 +1,3 @@
-/*
- * Board Tester Firmware
- * For Arduino Uno/Nano with CH340
- * 
- * Connections:
- *   A0 - Voltage (through divider)
- *   A1 - Current sensor (ACS712)
- *   D2 - Frequency input
- */
-
 #define VOLTAGE_PIN A0
 #define CURRENT_PIN A1
 #define FREQ_PIN 2
