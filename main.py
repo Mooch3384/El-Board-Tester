@@ -1,11 +1,3 @@
-"""
-Board Tester Pro - Desktop Application
-Electrical board testing software with Arduino
-
-Author: [Your Name]
-Version: 3.0
-"""
-
 import sys
 import json
 import time
